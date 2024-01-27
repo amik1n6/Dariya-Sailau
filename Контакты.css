@@ -1,0 +1,22 @@
+.menu{
+    background-color: #84C4FF;
+    width: 692.62px;
+    height: 103px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 10px;
+}
+body{
+    font-family: 'Jost', sans-serif;
+}
+header{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.element{
+    font-size: 35px;
+    text-decoration: none;
+    color: #001D85;
+}
